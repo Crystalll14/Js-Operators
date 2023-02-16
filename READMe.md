@@ -23,8 +23,8 @@ Bitwise Operators
 ^	XOR	
 ~	NOT	
 <<	Zero fill left shift	
->>	Signed right shift
->>>	Zero fill right shift
+(>>)	Signed right shift
+(>>>)	Zero fill right shift
 
 
 2. For each JavaScript Operator, write 2 examples.
